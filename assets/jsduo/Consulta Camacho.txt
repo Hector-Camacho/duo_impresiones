@@ -1,0 +1,5 @@
+No, eso verificara si el proceso del pedido anterior al proceso del pediddo actual esta finalizado
+SELECT IF( EXISTS( SELECT * FROM prioridadprocesos
+             WHERE `estatus` =  'Finalizado' AND idPrioridadesServiciosPedido =
+              (SELECT idPrioridadesServiciosPedido FROM prioridadprocesos WHERE idPrioridadesServiciosPedido < $idPrioridadesServicio ORDER BY idPrioridadesServiciosPedido DESC LIMIT 1
+)), 1, 0) as 'Existe';

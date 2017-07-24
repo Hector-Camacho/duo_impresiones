@@ -1,0 +1,3 @@
+Uri: http://seantheme.com/color-admin-v1.6/admin/html/assets/plugins/isotope/isotope.css
+File Name: c:\Downloaded Web Sites\seantheme.com\color-admin-v1.6\admin\html\assets\plugins\isotope\isotope.css
+Content Type: text/css

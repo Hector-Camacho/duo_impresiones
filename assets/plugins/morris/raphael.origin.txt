@@ -1,0 +1,3 @@
+Uri: http://seantheme.com/color-admin-v1.6/admin/html/assets/plugins/morris/raphael.min.js
+File Name: c:\Downloaded Web Sites\seantheme.com\color-admin-v1.6\admin\html\assets\plugins\morris\raphael.js
+Content Type: application/javascript

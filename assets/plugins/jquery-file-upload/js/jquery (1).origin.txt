@@ -1,0 +1,3 @@
+Uri: http://seantheme.com/color-admin-v1.6/admin/html/assets/plugins/jquery-file-upload/js/jquery.fileupload.js
+File Name: c:\Downloaded Web Sites\seantheme.com\color-admin-v1.6\admin\html\assets\plugins\jquery-file-upload\js\jquery (1).js
+Content Type: application/javascript
